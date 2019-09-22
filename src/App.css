@@ -1,4 +1,5 @@
 .App {
+  flex: inline;
   text-align: center;
 }
 
@@ -19,4 +20,18 @@
 
 .App-link {
   color: #09d3ac;
+}
+.signindiv {
+  padding-top: .5%;
+}
+.signInForm{
+  width: 20%;
+  margin: 2.5% 40% ;
+}
+.sign-in-header{
+  color: red;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-feature-settings: "c2sc";
+  position: relative;
+  margin-top: 8.5%;
 }
